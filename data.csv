@@ -1,0 +1,29 @@
+unique,star_rating,breakfast ,lunch,disabilty_entrances,windows,workers_dinner,lunch_workers,entrance_and_exit,variety_of_food,chairs,tables,dinner,breakfast_workers,hours_open_per_week,open_all_week,garbage_floor,scaps_on_table,gloves,hairnet,enthusiasm,smiles_workers,smiles_customer,clear_window,bathroom_smell,bathroom_floor_trash,music_on,people_talking,fda_certificate_present,specail_request
+Crepes & Churros D'France,4.7,8,4,1,14,3,2,2,Desserts,5,2,2,5,70,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Teamalaya,4.8,12,8,1,28,3,3,1,Desserts/Drinks,16,8,0,3,70,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Panera Bread,4.1,28,35,1,35,8,10,2,"Bakery, Cafe, Soups, Sandwiches",45,25,7,8,104,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Yummy Sushi,4.6,18,14,1,15,5,4,1," Sushi, Asian Fusion",25,11,0,3,70,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+Bella Ciao,4.6,0,16,1,32,5,4,2,Italian & Pizza,26,6,0,0,69,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Insonmia Cookies,4.3,0,4,1,8,3,3,1,Desserts,3,1,0,0,115,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+Jersey Mike's Subs,4.4,15,22,1,10,4,5,1,Subs/sandwich,10,3,2,3,83,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Campus Town Grill,4.5,16,12,1,17,4,4,2,"Burgers, American Diner Classics",25,10,0,4,93,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Mexican Mariachi Grill,4.7,20,15,1,13,3,3,2,"Tacos, Burritos, Quesabirria",20,7,0,3,77,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+Lady and the Shallot,4.8,12,18,1,15,2,2,1,100% Vegan / Plant-Based,8,5,5,3,64,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Frutta Bowls,4.6,10,15,1,30,3,3,1,"Acai Bowls, Pitaya, Smoothies",15,6,6,3,71.5,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Redberry Frozen Yogurt,4.5,14,6,1,15,2,2,1,Dessert/Frozen Yogurt & Smoothies,20,7,0,2,70,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+The Belt,4,15,20,1,1,3,3,1,Burgers and Sandwiches,10,4,3,2,69,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Ramen Nagomi,4.4,10,15,1,1,4,3,1,Ramen and Drinks,40,15,25,3,50.5,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Master Wok,2.8,0,35,1,2,3,2,1,Chinese food and drinks,0,0,20,3,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Lawernceville Pizza,2.8,0,25,1,5,5,3,1,Pizza & Italian food,0,0,15,3,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+The Cheesecake Factory,3.9,30,50,1,10,8,5,2,All courses ,70,200,81,37,77,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Popeyes Lousiana Kitchen,3.9,0,40,1,1,4,4,1,Basic Chicken Dishes,0,0,30,5,84,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Cinnabon,3.5,10,15,1,1,3,2,1,Dessert,0,0,9,2,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Sarku Japan,3.5,0,30,1,1,2,2,1,Basic Japanese food ,0,0,25,2,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+DoneRight Doner Kebab,4.7,0,27,1,1,4,2,1,Entrees & desserts,0,0,16,3,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Ruby Thai Kitchen,4.9,0,30,1,1,5,3,1,All courses ,0,0,20,2,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+"Kpot Korean BBQ, Hot Pot & Sushi",4.7,0,38,1,3,3,4,1,All courses ,100,20,57,0,72,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Chick-fil-A,4.5,15,61,1,1,5,3,1,All courses (fast-food),70,25,43,5,666,no,no,no,yes,yes,yes,yes,yes,yes,no,no,yes ,yes ,yes ,yes 
+Lawrenceville Pizza & Taco Fiesta,2.8,0,26,1,2,3,4,1,Pizza & Toco,0,0,18,3,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+DoneRight Doner Kebab,4.7,4,13,1,1,3,2,1,Kebabs and drinks,0,0,10,3,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Cezve Turkish Coffee & Dessert,3.5,5,15,1,1,4,4,1,Desserts,7,3,10,2,69,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Dunkin Donuts,3.8,25,25,1,1,3,2,1,"Coffee, Refreshers & Desserts",9,3,15,3,112,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
